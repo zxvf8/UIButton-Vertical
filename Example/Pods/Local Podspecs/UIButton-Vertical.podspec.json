@@ -1,0 +1,22 @@
+{
+  "name": "UIButton-Vertical",
+  "version": "0.1.0",
+  "summary": "A short description of UIButton-Vertical.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zxvf8/UIButton-Vertical",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zxvf8": "kaybinwong@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/zxvf8/UIButton-Vertical.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UIButton-Vertical/Classes/**/*"
+}
